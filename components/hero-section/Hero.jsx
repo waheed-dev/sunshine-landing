@@ -42,7 +42,7 @@ export const Hero = () => {
       >
         <Center flexDirection="column" textAlign="center" color="white" h="full">
           <Heading size="2xl" fontWeight="extrabold">
-            we'll hold your hand
+            we&apos;ll hold your hand
           </Heading>
           <Text fontSize="lg" fontWeight="medium" mt="3">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod
